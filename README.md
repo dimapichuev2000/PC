@@ -51,7 +51,7 @@ Vulture — небольшая утилита для поиска “мертв�
 ### Проверка pycodestyle 
 ![image](https://user-images.githubusercontent.com/55379930/111760485-1cacb880-88e2-11eb-89ad-4a3ed8333d0b.png)
 
-#**Источники**
+# **Источники**
 
 - https://proglib.io/p/python-code-analysis/
 - https://ru.wikipedia.org/wiki/Статический_анализ_кода
